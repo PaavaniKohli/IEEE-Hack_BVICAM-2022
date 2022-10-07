@@ -448,7 +448,7 @@ button {
 
 .titlepage h2 {
      font-size: 40px;
-     color: #02246a;
+     color: black;
      line-height: 55px;
      padding: 0;
 }
@@ -723,7 +723,7 @@ button {
 }
 
 .testimonial .titlepage h2 {
-     color: #02246a;
+     color: black;
 }
 
 .testimonial .titlepage p {
@@ -806,7 +806,7 @@ button {
 }
 
 .contact .titlepage h2 {
-     color: #02246a;
+     color: black;
 }
 
 .main_form {
