@@ -779,7 +779,7 @@ button {
 /** contact section **/
 
 .contact {
-     background: url(../images/contact.png);
+     background: url(../images/formbg.png);
      background-repeat: no-repeat;
      background-size: 100% 100%;
      padding: 0px 0 90px 0;
@@ -793,7 +793,7 @@ button {
      left: 0;
      right: 0;
      content: "";
-     background: url(../images/con_cross.png);
+     background: url(../images/formbg.png);
      background-repeat: no-repeat;
      width: 100%;
      height: 100%;
@@ -882,7 +882,7 @@ button {
 /** footer **/
 
 .footer {
-     background: #02246a;
+     background: url(../images/footerbg.png);
      padding-top: 115px;
      text-align: center;
 }
@@ -1053,7 +1053,7 @@ ul.link_menu li a:hover {
 /** inner page css **/
 
 .inner_header .header {
-     background: #02246a;
+     background: #DD5353;
      position: inherit;
 }
 
@@ -1062,7 +1062,7 @@ ul.link_menu li a:hover {
 }
 
 .yellow_darkbg {
-     background: #f8c659;
+     background: #B73E3E;
      display: flex;
      justify-content: center;
      align-items: center;
