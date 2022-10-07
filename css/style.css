@@ -1053,7 +1053,7 @@ ul.link_menu li a:hover {
 /** inner page css **/
 
 .inner_header .header {
-     background: #DD5353;
+     background: #3D0000;
      position: inherit;
 }
 
@@ -1062,7 +1062,7 @@ ul.link_menu li a:hover {
 }
 
 .yellow_darkbg {
-     background: #B73E3E;
+     background: #950101;
      display: flex;
      justify-content: center;
      align-items: center;
